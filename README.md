@@ -6,6 +6,6 @@ together with the practical work done in arduino.
 # IALG - Introdução à Algoritmos
 
 Exercícios feitos em introdução à algoritmos na Universidade Federal de Lavras,
-juntamento ao trabalho realizado em arduíno.
+juntamente ao trabalho realizado em arduíno.
 
 
